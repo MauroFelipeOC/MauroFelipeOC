@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi there 👋, I'm Mauro Costa.
+Java | Spring | JavaScript | Web Development
 
+A passionate about applying Computer Science fundamentals to address our daily challenges and enhance value delivery
+
+I’m currently learning Spring Boot and Web Development
 <!--
 **MauroFelipeOC/MauroFelipeOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
