@@ -1,7 +1,11 @@
 ## Hi there 👋, I'm Mauro Costa.
-Java | Spring | JavaScript | Web Development
+Java | Spring | JavaScript | Web Development | C
+<div>
+  <a href="mailto:mauro.felipe.oc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mauro-costa-mf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
-A passionate about applying Computer Science fundamentals to address our daily challenges and enhance value delivery
+A passionate about applying computer science concepts to address our daily challenges and enhance value delivery
 
 I’m currently learning Spring Boot and Web Development
 <!--
