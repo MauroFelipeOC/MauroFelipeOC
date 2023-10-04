@@ -5,9 +5,9 @@ Java | Spring | JavaScript | Web Development | C
   <a href="https://www.linkedin.com/in/mauro-costa-mf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-A passionate about applying computer science concepts to address our daily challenges and enhance value delivery
+A passionate about applying computer science concepts to address our daily challenges and enhance value delivery.
 
-I’m currently learning Spring Boot and Web Development
+I’m currently working with Spring Boot and Web Development.
 <!--
 **MauroFelipeOC/MauroFelipeOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
